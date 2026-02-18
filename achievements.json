@@ -1,0 +1,6202 @@
+{
+  "Jaivardhan": {
+    "correct_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "correct_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "correct_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "correct_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "correct_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "correct_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "correct_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "correct_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "correct_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "correct_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "streak_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "streak_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "streak_15": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "streak_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "streak_25": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "streak_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "streak_35": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "streak_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "streak_45": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "streak_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "speed_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "speed_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "speed_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "speed_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "speed_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "speed_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "speed_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "speed_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "speed_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "speed_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "monster_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "monster_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 2,
+      "unlocked_date": null
+    },
+    "monster_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 3,
+      "unlocked_date": null
+    },
+    "monster_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 4,
+      "unlocked_date": null
+    },
+    "monster_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "monster_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 6,
+      "unlocked_date": null
+    },
+    "monster_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 7,
+      "unlocked_date": null
+    },
+    "monster_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 8,
+      "unlocked_date": null
+    },
+    "monster_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 9,
+      "unlocked_date": null
+    },
+    "monster_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "perfect_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "perfect_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 2,
+      "unlocked_date": null
+    },
+    "perfect_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 3,
+      "unlocked_date": null
+    },
+    "perfect_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 4,
+      "unlocked_date": null
+    },
+    "perfect_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "perfect_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 6,
+      "unlocked_date": null
+    },
+    "perfect_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 7,
+      "unlocked_date": null
+    },
+    "perfect_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 8,
+      "unlocked_date": null
+    },
+    "perfect_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 9,
+      "unlocked_date": null
+    },
+    "perfect_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "games_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "games_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "games_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "games_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "games_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "games_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "games_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "games_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "games_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "games_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "category_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "category_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "category_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "category_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "category_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "category_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "category_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "category_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "category_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "category_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "comeback_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "comeback_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "comeback_15": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "comeback_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "comeback_25": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "comeback_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "comeback_35": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "comeback_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "comeback_45": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "comeback_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "accuracy_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "accuracy_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "accuracy_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "accuracy_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "accuracy_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "accuracy_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "accuracy_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "accuracy_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "accuracy_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "accuracy_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "rare_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    }
+  },
+  "Mahi": {
+    "correct_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "correct_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "correct_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "correct_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "correct_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "correct_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "correct_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "correct_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "correct_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "correct_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "streak_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "streak_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "streak_15": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "streak_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "streak_25": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "streak_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "streak_35": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "streak_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "streak_45": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "streak_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "speed_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "speed_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "speed_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "speed_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "speed_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "speed_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "speed_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "speed_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "speed_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "speed_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "monster_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "monster_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 2,
+      "unlocked_date": null
+    },
+    "monster_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 3,
+      "unlocked_date": null
+    },
+    "monster_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 4,
+      "unlocked_date": null
+    },
+    "monster_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "monster_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 6,
+      "unlocked_date": null
+    },
+    "monster_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 7,
+      "unlocked_date": null
+    },
+    "monster_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 8,
+      "unlocked_date": null
+    },
+    "monster_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 9,
+      "unlocked_date": null
+    },
+    "monster_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "perfect_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "perfect_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 2,
+      "unlocked_date": null
+    },
+    "perfect_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 3,
+      "unlocked_date": null
+    },
+    "perfect_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 4,
+      "unlocked_date": null
+    },
+    "perfect_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "perfect_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 6,
+      "unlocked_date": null
+    },
+    "perfect_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 7,
+      "unlocked_date": null
+    },
+    "perfect_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 8,
+      "unlocked_date": null
+    },
+    "perfect_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 9,
+      "unlocked_date": null
+    },
+    "perfect_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "games_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "games_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "games_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "games_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "games_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "games_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "games_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "games_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "games_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "games_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "category_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "category_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "category_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "category_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "category_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "category_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "category_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "category_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "category_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "category_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "comeback_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "comeback_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "comeback_15": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "comeback_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "comeback_25": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "comeback_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "comeback_35": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "comeback_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "comeback_45": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "comeback_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "accuracy_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "accuracy_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "accuracy_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "accuracy_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "accuracy_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "accuracy_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "accuracy_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "accuracy_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "accuracy_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "accuracy_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "rare_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    }
+  },
+  "Dev": {
+    "correct_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "correct_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "correct_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "correct_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "correct_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "correct_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "correct_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "correct_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "correct_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "correct_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "streak_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "streak_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "streak_15": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "streak_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "streak_25": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "streak_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "streak_35": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "streak_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "streak_45": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "streak_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "speed_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "speed_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "speed_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "speed_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "speed_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "speed_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "speed_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "speed_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "speed_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "speed_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "monster_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "monster_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 2,
+      "unlocked_date": null
+    },
+    "monster_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 3,
+      "unlocked_date": null
+    },
+    "monster_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 4,
+      "unlocked_date": null
+    },
+    "monster_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "monster_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 6,
+      "unlocked_date": null
+    },
+    "monster_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 7,
+      "unlocked_date": null
+    },
+    "monster_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 8,
+      "unlocked_date": null
+    },
+    "monster_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 9,
+      "unlocked_date": null
+    },
+    "monster_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "perfect_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "perfect_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 2,
+      "unlocked_date": null
+    },
+    "perfect_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 3,
+      "unlocked_date": null
+    },
+    "perfect_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 4,
+      "unlocked_date": null
+    },
+    "perfect_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "perfect_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 6,
+      "unlocked_date": null
+    },
+    "perfect_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 7,
+      "unlocked_date": null
+    },
+    "perfect_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 8,
+      "unlocked_date": null
+    },
+    "perfect_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 9,
+      "unlocked_date": null
+    },
+    "perfect_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "games_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "games_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "games_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "games_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "games_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "games_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "games_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "games_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "games_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "games_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "category_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "category_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "category_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "category_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "category_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "category_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "category_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "category_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "category_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "category_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "comeback_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "comeback_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "comeback_15": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "comeback_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "comeback_25": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "comeback_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "comeback_35": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "comeback_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "comeback_45": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "comeback_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "accuracy_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "accuracy_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "accuracy_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "accuracy_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "accuracy_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "accuracy_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "accuracy_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "accuracy_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "accuracy_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "accuracy_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "rare_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    }
+  },
+  "Alfaz": {
+    "correct_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "correct_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "correct_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "correct_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "correct_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "correct_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "correct_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "correct_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "correct_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "correct_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "streak_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "streak_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "streak_15": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "streak_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "streak_25": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "streak_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "streak_35": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "streak_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "streak_45": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "streak_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "speed_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "speed_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "speed_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "speed_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "speed_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "speed_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "speed_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "speed_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "speed_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "speed_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "monster_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "monster_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 2,
+      "unlocked_date": null
+    },
+    "monster_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 3,
+      "unlocked_date": null
+    },
+    "monster_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 4,
+      "unlocked_date": null
+    },
+    "monster_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "monster_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 6,
+      "unlocked_date": null
+    },
+    "monster_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 7,
+      "unlocked_date": null
+    },
+    "monster_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 8,
+      "unlocked_date": null
+    },
+    "monster_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 9,
+      "unlocked_date": null
+    },
+    "monster_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "perfect_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "perfect_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 2,
+      "unlocked_date": null
+    },
+    "perfect_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 3,
+      "unlocked_date": null
+    },
+    "perfect_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 4,
+      "unlocked_date": null
+    },
+    "perfect_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "perfect_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 6,
+      "unlocked_date": null
+    },
+    "perfect_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 7,
+      "unlocked_date": null
+    },
+    "perfect_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 8,
+      "unlocked_date": null
+    },
+    "perfect_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 9,
+      "unlocked_date": null
+    },
+    "perfect_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "games_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "games_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "games_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "games_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "games_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "games_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "games_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "games_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "games_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "games_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "category_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "category_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "category_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "category_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "category_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "category_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "category_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "category_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "category_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "category_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "comeback_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "comeback_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "comeback_15": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "comeback_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "comeback_25": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "comeback_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "comeback_35": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "comeback_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "comeback_45": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "comeback_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "accuracy_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "accuracy_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "accuracy_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "accuracy_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "accuracy_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "accuracy_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "accuracy_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "accuracy_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "accuracy_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "accuracy_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "rare_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    }
+  },
+  "inst1": {
+    "correct_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "correct_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "correct_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "correct_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "correct_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "correct_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "correct_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "correct_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "correct_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "correct_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "streak_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "streak_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "streak_15": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "streak_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "streak_25": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "streak_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "streak_35": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "streak_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "streak_45": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "streak_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "speed_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "speed_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "speed_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "speed_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "speed_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "speed_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "speed_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "speed_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "speed_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "speed_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "monster_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "monster_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 2,
+      "unlocked_date": null
+    },
+    "monster_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 3,
+      "unlocked_date": null
+    },
+    "monster_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 4,
+      "unlocked_date": null
+    },
+    "monster_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "monster_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 6,
+      "unlocked_date": null
+    },
+    "monster_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 7,
+      "unlocked_date": null
+    },
+    "monster_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 8,
+      "unlocked_date": null
+    },
+    "monster_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 9,
+      "unlocked_date": null
+    },
+    "monster_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "perfect_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "perfect_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 2,
+      "unlocked_date": null
+    },
+    "perfect_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 3,
+      "unlocked_date": null
+    },
+    "perfect_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 4,
+      "unlocked_date": null
+    },
+    "perfect_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "perfect_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 6,
+      "unlocked_date": null
+    },
+    "perfect_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 7,
+      "unlocked_date": null
+    },
+    "perfect_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 8,
+      "unlocked_date": null
+    },
+    "perfect_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 9,
+      "unlocked_date": null
+    },
+    "perfect_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "games_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "games_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "games_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "games_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "games_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "games_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "games_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "games_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "games_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "games_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "category_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "category_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "category_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "category_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "category_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "category_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "category_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "category_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "category_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "category_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "comeback_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "comeback_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "comeback_15": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "comeback_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "comeback_25": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "comeback_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "comeback_35": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "comeback_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "comeback_45": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "comeback_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "accuracy_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "accuracy_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "accuracy_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "accuracy_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "accuracy_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "accuracy_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "accuracy_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "accuracy_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "accuracy_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "accuracy_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "rare_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    }
+  },
+  "inst2": {
+    "correct_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "correct_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "correct_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "correct_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "correct_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "correct_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "correct_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "correct_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "correct_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "correct_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "streak_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "streak_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "streak_15": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "streak_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "streak_25": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "streak_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "streak_35": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "streak_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "streak_45": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "streak_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "speed_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "speed_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "speed_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "speed_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "speed_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "speed_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "speed_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "speed_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "speed_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "speed_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "monster_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "monster_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 2,
+      "unlocked_date": null
+    },
+    "monster_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 3,
+      "unlocked_date": null
+    },
+    "monster_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 4,
+      "unlocked_date": null
+    },
+    "monster_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "monster_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 6,
+      "unlocked_date": null
+    },
+    "monster_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 7,
+      "unlocked_date": null
+    },
+    "monster_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 8,
+      "unlocked_date": null
+    },
+    "monster_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 9,
+      "unlocked_date": null
+    },
+    "monster_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "perfect_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "perfect_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 2,
+      "unlocked_date": null
+    },
+    "perfect_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 3,
+      "unlocked_date": null
+    },
+    "perfect_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 4,
+      "unlocked_date": null
+    },
+    "perfect_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "perfect_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 6,
+      "unlocked_date": null
+    },
+    "perfect_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 7,
+      "unlocked_date": null
+    },
+    "perfect_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 8,
+      "unlocked_date": null
+    },
+    "perfect_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 9,
+      "unlocked_date": null
+    },
+    "perfect_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "games_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "games_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "games_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "games_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "games_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "games_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "games_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "games_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "games_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "games_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "category_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "category_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "category_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "category_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "category_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "category_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "category_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "category_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "category_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "category_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "comeback_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "comeback_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "comeback_15": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "comeback_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "comeback_25": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "comeback_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "comeback_35": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "comeback_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "comeback_45": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "comeback_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "accuracy_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "accuracy_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "accuracy_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "accuracy_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "accuracy_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "accuracy_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "accuracy_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "accuracy_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "accuracy_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "accuracy_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "rare_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    }
+  },
+  "Custom1": {
+    "correct_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "correct_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "correct_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "correct_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "correct_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "correct_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "correct_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "correct_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "correct_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "correct_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "streak_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "streak_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "streak_15": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "streak_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "streak_25": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "streak_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "streak_35": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "streak_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "streak_45": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "streak_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "speed_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "speed_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "speed_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "speed_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "speed_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "speed_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "speed_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "speed_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "speed_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "speed_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "monster_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "monster_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 2,
+      "unlocked_date": null
+    },
+    "monster_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 3,
+      "unlocked_date": null
+    },
+    "monster_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 4,
+      "unlocked_date": null
+    },
+    "monster_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "monster_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 6,
+      "unlocked_date": null
+    },
+    "monster_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 7,
+      "unlocked_date": null
+    },
+    "monster_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 8,
+      "unlocked_date": null
+    },
+    "monster_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 9,
+      "unlocked_date": null
+    },
+    "monster_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "perfect_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "perfect_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 2,
+      "unlocked_date": null
+    },
+    "perfect_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 3,
+      "unlocked_date": null
+    },
+    "perfect_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 4,
+      "unlocked_date": null
+    },
+    "perfect_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "perfect_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 6,
+      "unlocked_date": null
+    },
+    "perfect_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 7,
+      "unlocked_date": null
+    },
+    "perfect_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 8,
+      "unlocked_date": null
+    },
+    "perfect_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 9,
+      "unlocked_date": null
+    },
+    "perfect_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "games_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "games_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "games_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "games_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "games_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "games_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "games_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "games_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "games_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "games_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "category_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "category_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "category_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "category_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "category_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "category_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "category_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "category_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "category_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "category_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "comeback_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "comeback_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "comeback_15": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "comeback_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "comeback_25": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "comeback_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "comeback_35": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "comeback_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "comeback_45": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "comeback_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "accuracy_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "accuracy_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "accuracy_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "accuracy_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "accuracy_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "accuracy_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "accuracy_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "accuracy_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "accuracy_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "accuracy_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "rare_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    }
+  },
+  "Custom2": {
+    "correct_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "correct_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "correct_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "correct_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "correct_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "correct_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "correct_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "correct_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "correct_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "correct_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "streak_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "streak_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "streak_15": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "streak_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "streak_25": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "streak_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "streak_35": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "streak_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "streak_45": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "streak_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "speed_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "speed_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "speed_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "speed_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "speed_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "speed_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "speed_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "speed_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "speed_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "speed_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "monster_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "monster_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 2,
+      "unlocked_date": null
+    },
+    "monster_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 3,
+      "unlocked_date": null
+    },
+    "monster_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 4,
+      "unlocked_date": null
+    },
+    "monster_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "monster_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 6,
+      "unlocked_date": null
+    },
+    "monster_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 7,
+      "unlocked_date": null
+    },
+    "monster_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 8,
+      "unlocked_date": null
+    },
+    "monster_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 9,
+      "unlocked_date": null
+    },
+    "monster_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "perfect_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "perfect_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 2,
+      "unlocked_date": null
+    },
+    "perfect_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 3,
+      "unlocked_date": null
+    },
+    "perfect_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 4,
+      "unlocked_date": null
+    },
+    "perfect_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "perfect_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 6,
+      "unlocked_date": null
+    },
+    "perfect_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 7,
+      "unlocked_date": null
+    },
+    "perfect_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 8,
+      "unlocked_date": null
+    },
+    "perfect_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 9,
+      "unlocked_date": null
+    },
+    "perfect_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "games_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "games_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "games_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "games_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "games_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "games_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "games_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "games_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "games_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "games_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "category_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "category_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "category_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "category_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "category_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "category_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "category_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "category_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "category_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "category_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "comeback_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "comeback_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "comeback_15": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "comeback_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "comeback_25": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "comeback_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "comeback_35": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "comeback_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "comeback_45": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "comeback_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "accuracy_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "accuracy_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "accuracy_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "accuracy_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "accuracy_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "accuracy_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "accuracy_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "accuracy_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "accuracy_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "accuracy_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "rare_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    }
+  },
+  "Player": {
+    "correct_10": {
+      "unlocked": false,
+      "progress": 3,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "correct_20": {
+      "unlocked": false,
+      "progress": 3,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "correct_30": {
+      "unlocked": false,
+      "progress": 3,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "correct_40": {
+      "unlocked": false,
+      "progress": 3,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "correct_50": {
+      "unlocked": false,
+      "progress": 3,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "correct_60": {
+      "unlocked": false,
+      "progress": 3,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "correct_70": {
+      "unlocked": false,
+      "progress": 3,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "correct_80": {
+      "unlocked": false,
+      "progress": 3,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "correct_90": {
+      "unlocked": false,
+      "progress": 3,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "correct_100": {
+      "unlocked": false,
+      "progress": 3,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "streak_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "streak_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "streak_15": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "streak_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "streak_25": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "streak_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "streak_35": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "streak_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "streak_45": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "streak_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "speed_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "speed_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "speed_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "speed_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "speed_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "speed_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "speed_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "speed_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "speed_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "speed_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "monster_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "monster_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 2,
+      "unlocked_date": null
+    },
+    "monster_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 3,
+      "unlocked_date": null
+    },
+    "monster_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 4,
+      "unlocked_date": null
+    },
+    "monster_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "monster_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 6,
+      "unlocked_date": null
+    },
+    "monster_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 7,
+      "unlocked_date": null
+    },
+    "monster_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 8,
+      "unlocked_date": null
+    },
+    "monster_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 9,
+      "unlocked_date": null
+    },
+    "monster_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "perfect_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "perfect_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 2,
+      "unlocked_date": null
+    },
+    "perfect_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 3,
+      "unlocked_date": null
+    },
+    "perfect_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 4,
+      "unlocked_date": null
+    },
+    "perfect_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "perfect_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 6,
+      "unlocked_date": null
+    },
+    "perfect_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 7,
+      "unlocked_date": null
+    },
+    "perfect_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 8,
+      "unlocked_date": null
+    },
+    "perfect_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 9,
+      "unlocked_date": null
+    },
+    "perfect_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "games_1": {
+      "unlocked": false,
+      "progress": 3,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "games_2": {
+      "unlocked": false,
+      "progress": 1,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "games_3": {
+      "unlocked": false,
+      "progress": 1,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "games_4": {
+      "unlocked": false,
+      "progress": 1,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "games_5": {
+      "unlocked": false,
+      "progress": 1,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "games_6": {
+      "unlocked": false,
+      "progress": 1,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "games_7": {
+      "unlocked": false,
+      "progress": 1,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "games_8": {
+      "unlocked": false,
+      "progress": 1,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "games_9": {
+      "unlocked": false,
+      "progress": 1,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "games_10": {
+      "unlocked": false,
+      "progress": 1,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "category_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "category_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "category_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "category_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "category_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "category_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "category_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "category_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "category_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "category_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "comeback_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "comeback_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "comeback_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "comeback_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "comeback_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "comeback_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "comeback_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "comeback_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "comeback_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "comeback_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "accuracy_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "accuracy_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "accuracy_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "accuracy_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "accuracy_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "accuracy_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "accuracy_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "accuracy_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "accuracy_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "accuracy_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "rare_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "collector": {
+      "unlocked": false,
+      "progress": 1,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "completionist": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 115,
+      "unlocked_date": null
+    },
+    "speedrunner": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "perfectionist": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "grinder": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "casual": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "hardcore": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "newbie": {
+      "unlocked": true,
+      "progress": 1,
+      "max": 1,
+      "unlocked_date": "2026-02-18 19:22"
+    },
+    "veteran": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 500,
+      "unlocked_date": null
+    },
+    "legend": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "myth": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 115,
+      "unlocked_date": null
+    },
+    "immortal": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "unstoppable": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "omniscient": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "ai_whisperer": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    }
+  },
+  "Player2": {
+    "correct_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "correct_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "correct_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "correct_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "correct_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "correct_60": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "correct_70": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "correct_80": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "correct_90": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "correct_100": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "streak_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "streak_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "streak_15": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "streak_20": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "streak_25": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "streak_30": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "streak_35": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "streak_40": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "streak_45": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "streak_50": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "speed_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "speed_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "speed_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "speed_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "speed_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "speed_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "speed_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "speed_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "speed_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "speed_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "monster_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "monster_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 2,
+      "unlocked_date": null
+    },
+    "monster_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 3,
+      "unlocked_date": null
+    },
+    "monster_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 4,
+      "unlocked_date": null
+    },
+    "monster_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "monster_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 6,
+      "unlocked_date": null
+    },
+    "monster_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 7,
+      "unlocked_date": null
+    },
+    "monster_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 8,
+      "unlocked_date": null
+    },
+    "monster_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 9,
+      "unlocked_date": null
+    },
+    "monster_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "perfect_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "perfect_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 2,
+      "unlocked_date": null
+    },
+    "perfect_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 3,
+      "unlocked_date": null
+    },
+    "perfect_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 4,
+      "unlocked_date": null
+    },
+    "perfect_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "perfect_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 6,
+      "unlocked_date": null
+    },
+    "perfect_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 7,
+      "unlocked_date": null
+    },
+    "perfect_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 8,
+      "unlocked_date": null
+    },
+    "perfect_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 9,
+      "unlocked_date": null
+    },
+    "perfect_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "games_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "games_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "games_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "games_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "games_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "games_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "games_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "games_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "games_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "games_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "category_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "category_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "category_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "category_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "category_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "category_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "category_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "category_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "category_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "category_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "comeback_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    },
+    "comeback_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "comeback_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 15,
+      "unlocked_date": null
+    },
+    "comeback_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "comeback_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 25,
+      "unlocked_date": null
+    },
+    "comeback_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "comeback_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 35,
+      "unlocked_date": null
+    },
+    "comeback_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "comeback_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 45,
+      "unlocked_date": null
+    },
+    "comeback_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "accuracy_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "accuracy_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 20,
+      "unlocked_date": null
+    },
+    "accuracy_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 30,
+      "unlocked_date": null
+    },
+    "accuracy_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 40,
+      "unlocked_date": null
+    },
+    "accuracy_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 50,
+      "unlocked_date": null
+    },
+    "accuracy_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 60,
+      "unlocked_date": null
+    },
+    "accuracy_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 70,
+      "unlocked_date": null
+    },
+    "accuracy_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 80,
+      "unlocked_date": null
+    },
+    "accuracy_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 90,
+      "unlocked_date": null
+    },
+    "accuracy_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "rare_1": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_2": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_3": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_4": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_5": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_6": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_7": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_8": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_9": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "rare_10": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "collector": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "completionist": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 115,
+      "unlocked_date": null
+    },
+    "speedrunner": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "perfectionist": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "grinder": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 100,
+      "unlocked_date": null
+    },
+    "casual": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "hardcore": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "newbie": {
+      "unlocked": true,
+      "progress": 1,
+      "max": 1,
+      "unlocked_date": "2026-02-17 09:36"
+    },
+    "veteran": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 500,
+      "unlocked_date": null
+    },
+    "legend": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "myth": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 115,
+      "unlocked_date": null
+    },
+    "immortal": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "unstoppable": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 1,
+      "unlocked_date": null
+    },
+    "omniscient": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 10,
+      "unlocked_date": null
+    },
+    "ai_whisperer": {
+      "unlocked": false,
+      "progress": 0,
+      "max": 5,
+      "unlocked_date": null
+    }
+  }
+}

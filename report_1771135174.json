@@ -1,0 +1,9 @@
+{
+    "text": "Aliens have invaded new jersey",
+    "prediction": "FAKE",
+    "score": 0.323079000026512,
+    "level": "MODERATE",
+    "bias_index": 0.0,
+    "adversarial_score": 0.23043495864161798,
+    "confidence_weight": 0.44
+}
